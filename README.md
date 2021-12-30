@@ -7,7 +7,7 @@ I'm currently a student at the UoG & the UESTC.
 My interests include 
 - images, videos and graphics 📷, 
 - computing systems 💻, 
-- intelligence systems 🤖, 
+- intelligent systems 🤖, 
 
 and probably,
 
