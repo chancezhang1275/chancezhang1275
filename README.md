@@ -1,6 +1,6 @@
 ### Hi, there 👋, 
 
-Here is \_Chance\_Zhang's GitHub Repo. 
+Here are \_Chance\_Zhang's GitHub Repos. 
 
 I'm currently a student at the UoG & the UESTC. 
 
