@@ -5,7 +5,7 @@ The very basic idea of conducting all my projects is quite simple.
 >  First, struggle to get myself from the state of unknown unknown to the known unknown;
 >  Then, with effective planning, tackle those known unknowns to reach known known. 
 
-Therefore, after constructing the whole [EE-CS architecture](), one day I wrote my interests as follows
+Therefore, after constructing the whole [EE-CS architecture](https://github.com/chancezhang1275/chancezhang1275/blob/origin/supplementaries/architecture.md), one day I wrote my interests as follows
 
 * [Repo Planning](#repo-planning)
 
