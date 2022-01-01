@@ -5,7 +5,7 @@ The very basic idea conducting all my projects is quite simple.
 >  First, struggle to get myself from the state of unknown unknown to the known unknown;
 >  Then, with effective planning, tackle those known unknowns to reach known known. 
 
-Therefore, after constructing the whole [EE-CS architecture](), one day I wrote my interests as follows
+Therefore, after constructing the whole [EE-CS architecture](https://github.com/chancezhang1275/chancezhang1275/blob/origin/supplementaries/architecture.md), one day I wrote my interests as follows
 
 [TOC]
 
@@ -26,7 +26,7 @@ A general to-do-list can be written as
 - [ ] Learn the data structures and algorithms using LeetCode; 
 - [ ] Learn to use some system software. 
 
->A full list from my point of view can be found in this [page](). This module will most possibly be my notes. 
+>A full list from my point of view can be found in this [page](https://github.com/chancezhang1275/chancezhang1275/blob/origin/supplementaries/coding-skills_to_do_list.md.md). This module will most possibly be my notes. 
 
 
 
