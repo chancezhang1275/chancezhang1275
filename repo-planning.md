@@ -7,7 +7,19 @@ The very basic idea conducting all my projects is quite simple.
 
 Therefore, after constructing the whole [EE-CS architecture](), one day I wrote my interests as follows
 
-[TOC]
+* [Repo Planning](#repo-planning)
+
+* [module00 basic coding skills :hammer:,](#module00-basic-coding-skills-:hammer:,)
+
+* [module01 images, videos, and graphics :camera:,](#module01-images,-videos,-and-graphics-:camera:,)
+
+* [module02 computing systems :computer:,](#module02-computing-systems-:computer:,)
+
+* [module03 intelligent systems :robot:,](#module03-intelligent-systems-:robot:,)
+
+* [module04 business analysis 💸,](#module04-business-analysis-💸,)
+
+* [module05 collaborative projects :handshake:.](#module05-collaborative-projects-:handshake:.)
 
 These make up my future repository structure. For each module, I will develop corresponding projects, naming them in a form like `module0X-XXXXX`. The following are the details of each module.  
 

@@ -2,7 +2,21 @@
 
 > From the point of an embedded engineer. 
 
-[TOC]
+[Coding-skills_to_do_list](#coding-skills_to_do_list)
+
+* [Theories](#theories)
+
+* [Development Environment](#development-environment)
+
+* [Tools](#tools)
+
+* [Languages](#languages)
+
+* [Data Structures & Algorithms](#data-structures-&-algorithms)
+
+* [System Software](#system-software)
+
+* [Embedded HPC](#embedded-hpc)
 
 ## Theories
 
