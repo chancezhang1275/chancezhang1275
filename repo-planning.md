@@ -7,8 +7,6 @@ The very basic idea of conducting all my projects is quite simple.
 
 Therefore, after constructing the whole [EE-CS architecture](https://github.com/chancezhang1275/chancezhang1275/blob/origin/supplementaries/architecture.md), one day I wrote my interests as follows
 
-* [Repo Planning](#repo-planning)
-
 * [module00 basic coding skills :hammer:,](#module00-basic-coding-skills-:hammer:,)
 
 * [module01 images, videos, and graphics :camera:,](#module01-images,-videos,-and-graphics-:camera:,)
@@ -38,7 +36,7 @@ A general to-do-list can be written as
 - [ ] Learn the data structures and algorithms using LeetCode; 
 - [ ] Learn to use some system software. 
 
->A full list from my point of view can be found on this [page](). This module will most possibly be my notes. 
+>A full list from my point of view can be found on this [page](https://github.com/chancezhang1275/chancezhang1275/blob/origin/supplementaries/coding-skills_to_do_list.md.md). This module will most possibly be my notes. 
 
 
 

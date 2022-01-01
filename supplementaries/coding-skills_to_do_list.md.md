@@ -1,8 +1,6 @@
 # Coding-skills_to_do_list
 
-> From the point of an embedded engineer. 
-
-[Coding-skills_to_do_list](#coding-skills_to_do_list)
+From the point of an embedded engineer, the to-do-list could be
 
 * [Theories](#theories)
 
