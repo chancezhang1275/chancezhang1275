@@ -1,6 +1,6 @@
 # Repo Planning
 
-The very basic idea conducting all my projects is quite simple. 
+The very basic idea of conducting all my projects is quite simple. 
 
 >  First, struggle to get myself from the state of unknown unknown to the known unknown;
 >  Then, with effective planning, tackle those known unknowns to reach known known. 
@@ -38,13 +38,13 @@ A general to-do-list can be written as
 - [ ] Learn the data structures and algorithms using LeetCode; 
 - [ ] Learn to use some system software. 
 
->A full list from my point of view can be found in this [page](). This module will most possibly be my notes. 
+>A full list from my point of view can be found on this [page](). This module will most possibly be my notes. 
 
 
 
 # module01 images, videos, and graphics :camera:,
 
-For this module, it mainly contains sensing, processing and display, three parts. List them as 
+This module mainly contains sensing, processing and display, three parts. List them as 
 
 - [ ] Sensing | Camera, ISP Pipeline;
 - [ ] Processing | DSP, DIP, DL -> CPU, NPU, FPGA;
@@ -54,7 +54,7 @@ For this module, it mainly contains sensing, processing and display, three parts
 
 # module02 computing systems :computer:,
 
-Basing on the traditional classification methods, here we have
+Based on the traditional classification methods, here we have
 
 - [ ] Computer Architecture | _PU, Storage, SoC, ...
 - [ ] System Software | OS, Compiler, ...
@@ -70,7 +70,7 @@ I am currently working on constructing a tiny CNN framework (toy level), which c
 
 # module03 intelligent systems :robot:,
 
-This module focuses more on the high-level signal processing, including
+This module focuses more on high-level signal processing, including
 
 - [ ] Rule-based Signal Processing | Analysis, Fourier, Statistics, ...
 - [ ] Data-based Learning | Machine Learning, Deep Learning, Reinforcement Learning, ...
@@ -80,7 +80,7 @@ This module focuses more on the high-level signal processing, including
 
 # module04 business analysis 💸,
 
-Business analysis is more of a social science than the natural science, including
+Business analysis is more of social science than natural science, including
 
 - [ ] Management | Product Management, Project Management, Business Management, ...
 

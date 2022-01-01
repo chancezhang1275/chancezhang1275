@@ -12,3 +12,5 @@ My interests include
 and probably,
 
 - business analysis 💸.
+
+My repository planning can be view on this [page](https://github.com/chancezhang1275/chancezhang1275/blob/origin/repo-planning.md). 
