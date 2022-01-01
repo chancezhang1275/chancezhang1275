@@ -64,7 +64,7 @@ Based on the traditional classification methods, here we have
 
 
 
-I am currently working on constructing a tiny CNN framework (toy level), which could be found on my GitHub repository soon or later. 
+I am currently working on constructing a tiny CNN framework (toy), which could be found on my GitHub repository soon or later. 
 
 
 
