@@ -33,7 +33,7 @@ From the point of an embedded engineer, the to-do-list could be
 - [ ] Editors | VS Code with Plug-ins, Vim
 - [ ] Documentation | Markdown(Typora), LaTeX(Overleaf), Git
 - [ ] Environment |  Anaconda (Python), Docker
-- [ ] C/ CPP Development | GCC, G++ or Clang/LLVM, GDB, Valgrind, Make 
+- [ ] C/ CPP Development | GCC, G++ or Clang/LLVM, GDB, Valgrind, Make, Google Test, Google Mock
 - [ ] Cross Compiling | arm-linux-xxx
 - [ ] Hardware Development | Vivado(FPGA), Synopsys Tool Chain(ASIC)
 - [ ] Bench Instruments | Digital Multimeter, Oscilloscope, Power Supply, Logic Analyser, etc.
@@ -44,7 +44,7 @@ Development Language
 
 - [ ] Verilog | Verilog, Protocols, System Verilog, UVM, Chisel, Accelerators, HLS, etc.
 - [ ] C | Basis, Pointers, Interrupt, Assembler
-- [ ] CPP | OOP, IO, STL, OpenCV, TensorFlow, 11, 14, 20
+- [ ] CPP | OOP, IO, STL, Boost, OpenCV, TensorFlow, HALCON
 - [ ] Python | Numpy, SciPy, Matplotlib, Pandas, OpenCV, Cython, Scikit-learn, Keras, TensorFlow
 - [ ] Java | Basis, Android, Spring, SpringMVC, MyBatis
 - [ ] More | Scala, Haskell
@@ -66,20 +66,16 @@ Script Language
 
 ## System Software
 
-- [ ] Data| SQL, [Big Data](https://segmentfault.com/a/1190000024459497)
-- [ ] Communication | Socket
-- [ ] Display | Qt
+- [ ] Data| SQL, HDFS, HBase, Yarn, MapReduce, Spark, Storm, Hive, Mahout, Azkaban
+- [ ] Communication | Socket, Protocols
+- [ ] Display | Qt, Front End, Android
 
 ## Embedded HPC
 
-- [ ] OS | uCOS-ii, Linux, ROS, Drivers
+- [ ] OS | uCOS-ii, FreeRTOS, Linux, Android, ROS, Drivers
 - [ ] Compilers | GCC/ G++, Clang, LLVM, JVM, TVM
-- [ ] Multi-core | OpenMP, MPI
-
----
-
-- [ ] ARM | NEON, NCNN
-- [ ] GPU | CUDA, Vulkan, OpenGLES, OpenCL
-- [ ] FPGA | HLS, OpenCL
-- [ ] ISP, NPU, _PUs, ...
-
+- [ ] ARM CPU | NEON
+- [ ] Multicore CPU | OpenMP, MPI
+- [ ] GPU | Nvidia-CUDA, AMD-HIP, Vulkan, Android-OpenGL ES, OpenCL, SYCL
+- [ ] FPGA | Verilog, HLS, OpenCL, SYCL
+- [ ] ISP, NPU, VPU, _PUs, ASIC, ...
