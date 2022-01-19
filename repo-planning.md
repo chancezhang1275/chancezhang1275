@@ -91,5 +91,3 @@ Business analysis is more of social science than natural science, including
 # module05 collaborative projects :handshake:.
 
 From my side, all the collaborative projects are of this module, which may vary in the contents. 
-
-The very recent one is the [autoCar-a_safe_drive](https://github.com/chancezhang1275/autoCar-a_safe_drive). 
